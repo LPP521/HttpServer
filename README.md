@@ -1,0 +1,4 @@
+# HttpServer
+http服务端，响应浏览器请求
+httpserver接收浏览器求，发送给webframe处理具体请求，并由webframe返回响应码和响应体，由httpserver组织回复给浏览器。
+通过几个简单的页面和数据，完成浏览器与服务端的交互。
